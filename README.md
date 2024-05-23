@@ -1,1 +1,1 @@
-<img src="https://media.licdn.com/dms/image/D4D2DAQGOMInqEwjWbQ/profile-treasury-image-shrink_480_480/0/1716308063088?e=1717077600&v=beta&t=xZbbkAqUrV-nwxIbCQrpV7imqJOAMpQlY2jrmMgJSuQ">
+<img src="https://awesomescreenshot.s3.amazonaws.com/image/3666681/48366680-9db5d2b6d53e28ce66dda9c48ffcddda.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20240523%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240523T134043Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=4822888a2e2e774cec0f2016a5c3187af9ac4260267b4d105cd38bddff3e32fc">
